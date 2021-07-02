@@ -5,7 +5,7 @@ Los videos demostrativos de como se realiza la simulación lo puedes encontrar e
 
 ![alt text](https://github.com/jlaica/555-modo-astable/blob/main/esquema.png)
 
-Esquema tomado de [Aqi](https://www.nutsvolts.com/magazine/article/555-astable-circuits)
+Esquema tomado de [Nuts&Volts](https://www.nutsvolts.com/magazine/article/555-astable-circuits)
 
 Gráfica obtenida de la simulación. 
 ![alt text](https://github.com/jlaica/555-modo-astable/blob/main/grafica_se%C3%B1al.png)
